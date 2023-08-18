@@ -54,5 +54,3 @@ Thank you to the following contributors who have helped to improve this project:
 | Contributor 4 | Email address 4 | Phone Number 4 |
 | Contributor 5 | Email address 5 | Phone Number 5 |
 
-
-## Some new line added for practice purpose ##
