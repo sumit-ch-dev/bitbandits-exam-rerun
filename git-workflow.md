@@ -8,7 +8,7 @@
 
 - Commit Changes: Use git add filename to stage the changes and `git commit -m "Descriptive commit message"` to commit the changes to your local branch.
 
-- Push Changes to GitHub: Use git push origin branch-name to push your changes to GitHub, where branch-name is the name of your branch.
+- Push Changes to GitHub: Use `git push origin branch-name` to push your changes to GitHub, where branch-name is the name of your branch.
 
 - Create a Pull Request (PR): On GitHub, go to the repository's page, switch to your branch, and click the "New Pull Request" button. Describe your changes in the PR and submit it.
 
