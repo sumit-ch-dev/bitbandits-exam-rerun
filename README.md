@@ -34,6 +34,28 @@ software solution strives to bridge the gap between diners and local eateries.
 
 _This project is licensed under the [MIT License](https://opensource.org/license/mit/)_
 
+
+## Development Technology
+
+### Front-End:
+- HTML, CSS, JavaScript
+
+- React (Front-end framework)
+
+- Map integration libraries (e.g., Leaflet) for location-based features
+
+- Responsive design for mobile and desktop devices
+
+### Back-End:
+1. Node.js or Python (Server-side scripting)
+
+1. Express.js (Web application frameworks)
+
+1. MongoDB or PostgreSQL (Database management)
+
+1. Geocoding APIs (for mapping and location data)
+>>>>>>> origin/development
+
 ### Usage
 
 - **Search for Restaurants:** Utilize the search functionality to discover dining options based on your preferences.
