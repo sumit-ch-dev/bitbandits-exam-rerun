@@ -28,6 +28,12 @@ software solution strives to bridge the gap between diners and local eateries.
 ### Development Technology
 
 #### Front-End:
+
+
+### License
+
+_This project is licensed under the [MIT License](https://opensource.org/license/mit/)_
+
 - HTML, CSS, JavaScript
 
 - React (Front-end framework)
@@ -64,6 +70,7 @@ software solution strives to bridge the gap between diners and local eateries.
 
 3. **Launch the Application:** Open the index.html file in your web browser.
 `open index.html`
+
 
 ### Usage
 
