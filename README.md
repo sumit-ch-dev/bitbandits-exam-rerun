@@ -54,7 +54,7 @@ _This project is licensed under the [MIT License](https://opensource.org/license
 1. MongoDB or PostgreSQL (Database management)
 
 1. Geocoding APIs (for mapping and location data)
->>>>>>> origin/development
+
 
 ### Usage
 
