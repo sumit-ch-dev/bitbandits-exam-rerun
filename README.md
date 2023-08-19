@@ -29,6 +29,11 @@ software solution strives to bridge the gap between diners and local eateries.
 
 ![Dining guide banner](https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80)
 
+
+### License
+
+_This project is licensed under the [MIT License](https://opensource.org/license/mit/)_
+
 ### Usage
 
 - **Search for Restaurants:** Utilize the search functionality to discover dining options based on your preferences.
