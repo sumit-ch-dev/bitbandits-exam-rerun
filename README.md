@@ -29,16 +29,22 @@ software solution strives to bridge the gap between diners and local eateries.
 
 ![Dining guide banner](https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80)
 
-# Development Technology
+
+### License
+
+_This project is licensed under the [MIT License](https://opensource.org/license/mit/)_
+
+
+## Development Technology
 
 ### Front-End:
-*• HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
 
-*• React (Front-end framework)
+- React (Front-end framework)
 
-*• Map integration libraries (e.g., Leaflet) for location-based features
+- Map integration libraries (e.g., Leaflet) for location-based features
 
-*• Responsive design for mobile and desktop devices
+- Responsive design for mobile and desktop devices
 
 ### Back-End:
 1. Node.js or Python (Server-side scripting)
@@ -48,6 +54,7 @@ software solution strives to bridge the gap between diners and local eateries.
 1. MongoDB or PostgreSQL (Database management)
 
 1. Geocoding APIs (for mapping and location data)
+
 
 ### Usage
 
